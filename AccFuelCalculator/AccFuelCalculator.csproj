@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>resources\logoFuelCalculator.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="resources\Assetto_Corsa_Logo.png" />
+    <None Remove="resources\logoacc.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="resources\Assetto_Corsa_Logo.png" />
+    <Content Include="resources\logoFuelCalculator.ico" />
+  </ItemGroup>
+
+</Project>
