@@ -10,7 +10,6 @@ AccFuelCalculator es una aplicación que calcula la cantidad exacta de combustib
 
 - **Cálculo de combustible**: Calcula los litros de gasolina necesarios para una carrera.
 - **Interfaz de usuario amigable**: Sencilla y fácil de usar.
-- **Soporte multilingüe**: Disponible en inglés y español.
 - **Advertencia de estilo de conducción**: Mensaje de advertencia indicando que la cifra puede variar según el estilo de conducción.
 
 ## Capturas de Pantalla
