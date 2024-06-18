@@ -4,7 +4,7 @@
   <img src="https://github.com/Pisa-17/AccCalculadoraGasolina/blob/main/Images/logoFuelCalculator.PNG" alt="AccFuelCalculator Logo" />
 </p>
 
-AccFuelCalculator es una aplicación que calcula la cantidad exacta de combustible necesario para una carrera en Assetto Corsa Competizione. Solo necesitas ingresar el tiempo total de la carrera, el tiempo por vuelta y el consumo medio de combustible por vuelta para obtener el resultado. La aplicación está disponible en inglés y español.
+AccFuelCalculator es una aplicación que calcula la cantidad exacta de combustible necesario para una carrera en Assetto Corsa Competizione. Solo necesitas ingresar el tiempo total de la carrera, el tiempo por vuelta y el consumo medio de combustible por vuelta para obtener el resultado. La aplicación está disponible en español.
 
 ## Características
 
