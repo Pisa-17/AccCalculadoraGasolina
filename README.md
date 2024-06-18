@@ -15,7 +15,9 @@ AccFuelCalculator es una aplicación que calcula la cantidad exacta de combustib
 
 ## Capturas de Pantalla
 
-Estamos trabajando en ello... 🏗️
+<p align="center">
+  <img src="https://github.com/Pisa-17/AccCalculadoraGasolina/blob/main/Images/capturapantalla.PNG" alt="AccFuelCalculator Screen" />
+</p>
 
 ## Instalación
 
