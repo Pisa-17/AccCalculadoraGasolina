@@ -1,0 +1,5 @@
+C:\Users\alejandro.orviz\Documents\AccCalculator\AccFuelCalculator\AccFuelCalculator\bin\Release\net8.0-windows\publish\AccFuelCalculator.exe
+C:\Users\alejandro.orviz\Documents\AccCalculator\AccFuelCalculator\AccFuelCalculator\bin\Release\net8.0-windows\publish\AccFuelCalculator.dll
+C:\Users\alejandro.orviz\Documents\AccCalculator\AccFuelCalculator\AccFuelCalculator\bin\Release\net8.0-windows\publish\AccFuelCalculator.deps.json
+C:\Users\alejandro.orviz\Documents\AccCalculator\AccFuelCalculator\AccFuelCalculator\bin\Release\net8.0-windows\publish\AccFuelCalculator.runtimeconfig.json
+C:\Users\alejandro.orviz\Documents\AccCalculator\AccFuelCalculator\AccFuelCalculator\bin\Release\net8.0-windows\publish\AccFuelCalculator.pdb
