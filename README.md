@@ -45,6 +45,10 @@ Si deseas contribuir a AccFuelCalculator, sigue estos pasos:
 4. Empuja la rama (`git push origin feature/nueva-caracteristica`).
 5. Abre un Pull Request.
 
+## Próximas actualizaciones
+
+Para las próximas actualizaciones tenemos pensado sacar la versión en inglés, un nuevo aspecto de la aplicación y más detalles como guardar presets de carreras para no tener que teclear todo de nuevo siempre
+
 ## Licencia
 
 Este proyecto está licenciado bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE) para más detalles.
